@@ -1,0 +1,22 @@
+# API keys
+.env
+
+# Data and embeddings
+data/
+embeddings/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Dataset files
+arxiv-metadata-oai-snapshot.json
+arxiv.zip
+
+# VS Code
+.vscode/
